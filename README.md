@@ -4,13 +4,13 @@ Hello, there!
 
 <h2 align = "center">
   
-  My name is Ivan Vukušić
+My name is Ivan Vukušić
   
- I’m new to the programming world
+I’m new to the programming world
   
- I have started learning MSSQL and C#
+I have started learning MSSQL and C#
   
- Any advice would be good => ivukusic27@gmail.com
+Any advice would be good => ivukusic27@gmail.com
   
 </h2>
 
