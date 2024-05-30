@@ -1,8 +1,7 @@
 ![GitHub Header Image](https://github.com/Ivan-Vukusic/Ivan-Vukusic/assets/149510138/e4a91892-4323-411c-bc84-e8edf3481a94)
 
 
-:memo: **Completed Web Programming Education at Edunova** (https://www.edunova.hr/informatika/web-developer/)
-
+:memo: **Completed Web Programming Education at <a href="https://www.edunova.hr/informatika/web-developer/" target="_blank">Edunova</a>**
 :e-mail: **Contact Me:** [ivukusic27@gmail.com](mailto:ivukusic27@gmail.com)
 
 ## About Me
