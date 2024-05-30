@@ -2,6 +2,7 @@
 
 
 :memo: **Completed Web Programming Education at <a href="https://www.edunova.hr/informatika/web-developer/" target="_blank">Edunova</a>**
+
 :e-mail: **Contact Me:** [ivukusic27@gmail.com](mailto:ivukusic27@gmail.com)
 
 ## About Me
