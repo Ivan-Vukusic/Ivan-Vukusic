@@ -1,14 +1,30 @@
-![github-header-image](https://github.com/Ivan-Vukusic/Ivan-Vukusic/assets/149510138/e4a91892-4323-411c-bc84-e8edf3481a94)
+![GitHub Header Image](https://github.com/Ivan-Vukusic/Ivan-Vukusic/assets/149510138/e4a91892-4323-411c-bc84-e8edf3481a94)
 
-    
-:memo: I have started learning MSSQL and C#
+
+:memo: **Completed Web Programming Education at Edunova** (https://www.edunova.hr/informatika/web-developer/)
+
+:e-mail: **Contact Me:** [ivukusic27@gmail.com](mailto:ivukusic27@gmail.com)
+
+## About Me
+
+I am a beginner web developer. My focus is on expanding my knowledge.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Bootstrap
+- C#
+- MSSQL
   
-:e-mail: To comunicate with me, go there => ivukusic27@gmail.com
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
 </div>
+
+---
+
 
   
 
